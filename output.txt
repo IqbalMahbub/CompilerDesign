@@ -1,0 +1,9 @@
+Number of words :5
+Number of latter :16
+Number of other_charecter :4
+Number of digit :5
+
+
+The latters are:MdTareqZamanPart
+The digit are:32011
+The other_charecter are:.,-,
